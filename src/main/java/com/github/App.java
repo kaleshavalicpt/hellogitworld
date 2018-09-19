@@ -1,4 +1,4 @@
-npackage com.github;
+package com.github;
 
 /**
  * Hello again
@@ -10,7 +10,7 @@ public class App
     public static void main( String[] args )
     {
     	//Comment
-        System.out.println( "Hello jenkins!" );
+        System.out.println( "Hello World!" );
     }
 }
 
